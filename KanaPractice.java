@@ -1,3 +1,5 @@
+//This file opens the window in which the selector is located
+
 package kanapractice;
 
 import javax.swing.JFrame;
